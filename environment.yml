@@ -1,0 +1,18 @@
+name: titanic-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - ipykernel
+  - graphviz
+  - python-graphviz
+  - pip
+  - pip:
+      - kaggle
