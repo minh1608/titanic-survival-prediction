@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+python-graphviz
+# kaggle  ← optional: enable CLI submissions if you use it locally
